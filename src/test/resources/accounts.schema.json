@@ -14,7 +14,7 @@
     ],
     "properties": {
       "id": {
-        "type": "integer"
+        "type": "String"
       },
       "name": {
         "type": "string",
@@ -34,3 +34,4 @@
     }
   }
 }
+© 2022 Git
